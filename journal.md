@@ -4,17 +4,17 @@
 
 We tried to make in-depth instructions for making a jelly sandwich.
 
-1. What did you learn?
+2. What did you learn?
 
 I learnt that something as simple as making a sandwich can need some very in-depth instructions for a computer.
 
-1. What questions do I have?
+3. What questions do I have?
 
 What is the simplest way to make instructions for something like fixing a car?
 
 # 2/13/2020
 
-2. What did we do?
+1. What did we do?
 
 Today, we made a dice in python. We changed the colors and made a bargraph for counting the amount of times we got each value.
 
@@ -22,7 +22,7 @@ Today, we made a dice in python. We changed the colors and made a bargraph for c
 
 I learned how to use bargraphs in python. Although I have used the language before I did not know how to create bargraphs.
 
-2. What questions do I have?
+3. What questions do I have?
 
 How can I make the dice do a simple rotation when I click?
 
